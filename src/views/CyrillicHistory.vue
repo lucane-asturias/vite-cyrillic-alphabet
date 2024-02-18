@@ -2,7 +2,7 @@
   <div class="px-8 py-12 max-w-3xl mx-auto">
     <div class="text-2xl text-center mb-8">
       <p>
-        The Cyrillic script, derived from the Greek alphabet with additional characters from the Glagolitic alphabet, was developed in the 9th century. Named after Saints Cyril and Methodius, it was initially used to spread Christianity among Slavic peoples.
+        The Cyrillic alphabet, born from the Greek alphabet and with characters from the Glagolitic alphabet, was created in the 9th century. Baptized after the Saints Cyril and Methodius, its primary purpose was to spread Christianity among the Slavic peoples.
       </p>
     </div>
 
@@ -44,19 +44,19 @@
         <li><strong>Te т</strong> - Equivalent to the English letter "T"</li>
       </ul>
       <div class="mt-8">
-        <p>Basic Words:</p>
+        <p>So now you can read Russian basic words such as:</p>
         <ul class="list-disc pl-8">
+          <li><strong>Так</strong> (Tak) - So</li>
+          <li><strong>Тот</strong> (Tot) - That</li>
+          <li><strong>Там</strong> (Tam) - There</li>
           <li><strong>Мама</strong> (Mama) - Mom</li>
-          <li><strong>Папа</strong> (Papa) - Dad</li>
-          <li><strong>Топ</strong> (Top) - Top</li>
-          <li><strong>Кот</strong> (Kot) - Cat (feminine)</li>
-          <li><strong>Кошка</strong> (Koshka) - Cat (masculine)</li>
+          <li><strong>Кот</strong> (Kot) - Cat (masculine)</li>
         </ul>
       </div>
     </div>
     <div class="mt-8">
       <p>
-        To further expand your knowledge of the Cyrillic alphabet, please go to the specialized page on this subject by clicking the button below.
+        Please, go to the specialized page to expand your knowledge of the Cyrillic alphabet by clicking the button below.
       </p>
     </div>
     <router-link :to="{ name: 'alphabet' }" class="flex inline-block justify-center mt-10 -ml-5">
