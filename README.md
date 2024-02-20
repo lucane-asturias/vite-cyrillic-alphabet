@@ -17,11 +17,9 @@ The idea was to simplify the learning process of the Cyrillic alphabet by integr
 ## How To Run
 
 ```bash
-# Install client and server dependencies
+# Install client dependencies
 $ npm install
-$ pip install -r requirements.txt
 
-# Run the app and the server
+# Run the app
 $ npm run dev
-$ python manage.py runserver
 ```
