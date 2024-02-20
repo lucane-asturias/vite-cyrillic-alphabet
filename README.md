@@ -7,7 +7,8 @@
 ## Overview
 This project is aimed at facilitating the learning of the Cyrillic alphabet. 
 It showcases the Cyrillic alphabet in an engaging visual format, allowing users to click on specific letters for detailed insights into their meaning, usage, and memory hacks to remember the specific Cyrillic character.
-![image]([https://res.cloudinary.com/dyswc6bns/image/upload/v1708374888/portfolio/sentences_context_f2mksm.png](https://res.cloudinary.com/dyswc6bns/image/upload/v1708387035/portfolio/cyrillic_alphabet_wdtjmy.png))
+
+![image](https://res.cloudinary.com/dyswc6bns/image/upload/v1708387035/portfolio/cyrillic_alphabet_wdtjmy.png)
 
 ## Objective
 The idea was to simplify the learning process of the Cyrillic alphabet by integrating new vocabulary with the letters already mastered.
